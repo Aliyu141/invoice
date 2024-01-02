@@ -36,7 +36,9 @@
     letter-spacing: 3px;
     color: rgb(156, 156, 156);
   }
-  
+  .date{
+      margin-left:10px;
+  }
   .invoice-number {
     font-size: 17px;
     letter-spacing: 2px;
