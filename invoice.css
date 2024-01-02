@@ -35,7 +35,7 @@
     font-size: 14px;
     letter-spacing: 3px;
     color: rgb(156, 156, 156);
-    margin-right:20px;
+    margin-right:-20px;
   }
   .date{
       margin-left:-20px;
@@ -170,7 +170,7 @@
     }
     .invoice-container {
         border: solid 1px gray;
-        width: 60%;
+        width: 100%;
         margin: 50px auto;
         padding: 40px;
         padding-bottom: 100px;
@@ -234,7 +234,7 @@
   
 }
 #date{
- margin-left: 50px;
+ margin-right:-20px;
 }
 #form{
   border: 1px solid black;
